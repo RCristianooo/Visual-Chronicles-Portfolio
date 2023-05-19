@@ -13,11 +13,11 @@ Visual Chronicles is the name of his freelancing business. As the single owner o
 
 ## Optimizations
 
-Zephyr was very glad about the outcome of the product. He was thrilled enough to  
+Zephyr was very glad about the outcome of the product. He was thrilled enough to featured his site all through his business account for any of his followers to see. While the site does shine, I believe it can shine even further if there was a chance of implementing a form below his page. I think people should have accessibility to contact him without going through Twitter, Instagram, or Email. Another optimization I could have made would be to ask for all his images to gather and turn into collections. To access these collections I would provide a navigation bar and a dropdown menu to view everything Zephyr has taken photos of. Finally, an about section where Zephyr has a chance to talk about himself. A side that Zephyr can share so that people can personally view.
 
 ## Lessons Learned:
 
-Lessons I've learn
+With the second freelancing gig to be with a top-class photographer, I have learned about several techniques to utilize and showcase the images that Zephyr has taken. Srcset attributes were so useful to determine the several different images needed in both sections and device display width. The content decisions in making the site responsive also gave me ideas on what belongs on a particular screen size. Common sizes such as computer, tablet, or a mobile phone so to speak.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
