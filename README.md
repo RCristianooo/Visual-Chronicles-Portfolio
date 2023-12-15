@@ -31,5 +31,7 @@ In this freelancing gig, collaborating with a top-class photographer like Zephyr
 Take a look at these couple examples that I have in my own portfolio:
 
 **Tradelancing:** https://github.com/RCristianooo/Tradelancing
+
 **Taskwrench:** https://github.com/RCristianooo/taskwrench
+
 **Curl Coiffure Hair Salon:** https://github.com/RCristianooo/Curl-Coiffure-Hair-Salon
