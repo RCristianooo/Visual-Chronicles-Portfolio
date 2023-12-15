@@ -3,7 +3,8 @@ Visual Chronicles is an online showcase tailored for Zephyr Stonefield, a skille
 
 Link to project: https://visualchronicles.netlify.app
 
-![Preview Visual Chronicles Portfolio](https://github.com/RCristianooo/Visual-Chronicles-Portfolio/assets/114029162/f7fd97a3-dd1f-476f-9552-04cd3181643a)
+![Preview Visual Chronicles Portfolio](https://github.com/RCristianooo/Visual-Chronicles-Portfolio/assets/114029162/bc615b64-f773-4c2f-b3b6-66840e54dbc2)
+
 
 
 ## How It's Made:
